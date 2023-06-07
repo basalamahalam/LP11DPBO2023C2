@@ -5,7 +5,7 @@
 Setelah kalian berhasil mengakses programnya, buatlah fitur CRUD untuk tabel yang sudah disediakan, dan tampilkan 2 kolom baru yaitu kolom email dan telepon yang sudah ada pada database.
 
 ## Desain Database
-https://github.com/basalamahalam/LP11DPBO2023C2/assets/101177095/801c2684-06b5-45cc-8685-4e291a8f1785
+![Capture](https://github.com/basalamahalam/LP11DPBO2023C2/assets/101177095/d130142b-14de-4a82-81bb-52b36c06efe9)
 
 ## Alur Program
 Program akan menampilkan halaman Home yang merupakan satu-satunya halaman, di mana halaman ini berisi tabel daftar data pasien yang diambil dari database.
